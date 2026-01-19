@@ -4,8 +4,6 @@
 
 Este es un proyecto de JavaScript donde se manipulan elementos del DOM (Document Object Model) usando 4 tareas diferentes.
 
-## Las 4 Tareas
-
 ### Tarea 1: Repetir Palabra
 - Ingresa una palabra y cuántas veces quieres repetirla
 - El programa repite la palabra en pantalla
